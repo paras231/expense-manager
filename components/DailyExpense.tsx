@@ -40,7 +40,7 @@ const DailyExpense = () => {
         <section className="bg-black p-2 rounded-lg flex items-center justify-between">
           <motion.button
             whileTap={{
-              scale: 0.8,
+              scale: 0.9,
             }}
           >
             <Button
@@ -63,7 +63,7 @@ const DailyExpense = () => {
           </div>
           <motion.button
             whileTap={{
-              scale: 0.8,
+              scale: 0.9,
             }}
           >
             <Button
